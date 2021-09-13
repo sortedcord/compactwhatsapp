@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="icons/icon48.png" height="150" alt="hypecli">
+  <img src="icons/icon48.png" height="64" alt="hypecli">
 </h1>
 
 <h4 align="center">⚙ Compact layout for whatapp web</h4>
