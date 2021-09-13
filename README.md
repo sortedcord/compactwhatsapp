@@ -43,7 +43,7 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
 
 # Usage
 The best use case would be for browsers that use panels for messengers like Opera GX and vivaldi though you can use this with any chromium browser with the window resized to take up <40% of your entire screen.
-Hyper CLI comes with a starter project template as well. After the installation, run 
+
 
 ![usage](screenshots/usage.png)
 
