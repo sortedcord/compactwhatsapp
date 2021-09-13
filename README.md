@@ -40,60 +40,24 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
   <p>All that is required now is to unzip the downloaded file and drag the folder into your browser.</p>
 
   ![drag](screenshots/drag.gif)
-
-
-
-
 </div>
 
-<!-- # Usage
-You can read the [documentation](https://github.com/serumstudio/hype/) for more info and [examples](https://github.com/serumstudio/hype/) for more examples.
+# Usage
+The best use case would be for browsers that use panels for messengers like Opera GX and vivaldi though you can use this with any chromium browser with the window resized to take up <40% of your entire screen.
 Hyper CLI comes with a starter project template as well. After the installation, run 
-```bash
-$ hyper create demoproject
-```
 
-Or you can create your own project by looking on this simple example.
 
-```py
-
-#: Import the main class of the module
-from hype import Hype
-
-#: create a `app` instance of HyperCLI `:class:`
-app = Hype()
-
-#: Declare a command decorator.
-@app.command(description="Greet the given user")
-def greet(name: str):
-
-  #: print the name that user define.
-  app.echo("Hello", name)
- 
-if __name__ == "__main__":
-  #: Run the application
-  app.run()
-
-# Output:
-# python test.py greet --name Zenqi
-# Hello Zenqi
-```
-
-<div align="right" id="features">
-  <h1> Features </h1>
-  <p>Check <a href="https://hype.serum.studio/features">Hype Features</a> from the documentation site.</p>
-</div>
 
 # Contributors
-> For contirbuting, see [CONTRIBUTING.md](https://github.com/serumstudio/hype/tree/main/CONTRIBUTING.md)
+<!-- > For contirbuting, see [CONTRIBUTING.md](https://github.com/serumstudio/hype/tree/main/CONTRIBUTING.md) -->
 
 Thanks to these contributors who made the project maintained!
 
-| ![](https://github.com/znqi.png?size=50)   |
+| ![](https://github.com/sortedcord.png?size=50)   |
 |:-------------------------------------------:|
-| [Zenqi](https://www.github.com/zenqii)     |
+| [sortedcord](https://www.github.com/sortedcord)     |
 
 <div align="right" id="license">
   <h1> License </h1>
-  <p> Hype is license under <a href="https://github.com/serumstudio/anglo/blob/main/LICENSE">MIT</a> </p>
+  <p> CompactWhatsapp is license under <a href="https://github.com/sortedcord/compactwhatsapp/blob/master/LICENSE">MIT</a> </p>
 </div> -->
