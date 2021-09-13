@@ -4,14 +4,14 @@
 
 <h4 align="center">⚙ Compact layout for whatapp web</h4>
 
-<!-- <p align="center">
+<p align="center">
   <a href="#about">About</a> | 
-  <a href="#installation">Installation</a> | 
+  <!-- <a href="#installation">Installation</a> | 
   <a href="#usage">Usage</a> | 
   <a href="#features">Features</a> | 
   <a href="#contributors">Contributors</a> |
-  <a href="#license">License</a>
-</p> -->
+  <a href="#license">License</a> -->
+</p> 
 
 # About
 
@@ -19,7 +19,16 @@
 
 Have you ever had trouble with whatsapp web in terms of multitasking? Well I did, and it was pretty annoying whenever I wanted to multitask and tile it to a smaller portion of the screen. It is not responsive at all which what compactwhatsapp tries to fix.
 
-
+<table>
+    <tr>
+        <th>Default Layout
+        <th>Compact Whatsapp
+    </tr>
+    <tr>
+        <td><img align="center" src="screenshots/default.png" />
+        <td><img align="center" src="screenshots/wscompact.png" />
+    <tr>
+</table>
 
 <!-- <div align="right" id="installation">
   <h1> Installation </h1>
