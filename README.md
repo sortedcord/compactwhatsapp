@@ -7,10 +7,9 @@
 <p align="center">
   <a href="#about">About</a> | 
   <a href="#installation">Installation</a> | 
-  <!-- <a href="#usage">Usage</a> | 
-  <a href="#features">Features</a> | 
+  <a href="#usage">Usage</a> | 
   <a href="#contributors">Contributors</a> |
-  <a href="#license">License</a> -->
+  <a href="#license">License</a>
 </p> 
 
 # About
@@ -58,7 +57,7 @@ Thanks to these contributors who made the project maintained!
 |:-------------------------------------------:|
 | [sortedcord](https://www.github.com/sortedcord)     |
 
-<div align="right" id="license">
+<div id="license">
   <h1> License </h1>
   <p> CompactWhatsapp is license under <a href="https://github.com/sortedcord/compactwhatsapp/blob/master/LICENSE">MIT</a> </p>
 </div>
