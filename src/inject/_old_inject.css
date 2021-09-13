@@ -1,0 +1,465 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+/* ._2O84H, ._3Aa1y, ._22PcK { */
+._2O84H, ._3Aa1y {
+
+    display: none !important;
+}
+._1Ra05 {
+
+    display: none !important;
+}
+
+._2NwAr {
+
+    flex: none !important;
+}
+
+
+/*------------------------------
+ THUMB PIC
+------------------------------*/
+
+.i5ly3 {
+    /* THUMBS - LEFT SIDE */
+    width: 80px !important;
+    width: 65px !important;
+
+}
+
+/* COUNT MESSAGE */
+.VOr2j {
+
+    position: absolute;
+    right: 5px;
+    right: 18px;
+    z-index: 1000;
+
+    bottom: 5px;
+
+}
+
+/* ._1C6Zl::after {
+
+    border-top: none !important;
+} */
+/* Inner content */
+
+/* Remove pic hover border */
+._3Pwfx.hover,
+._3Pwfx.hover * {
+
+    border: none !important;
+    outline: none !important;
+}
+
+._2AuNk {
+
+
+}
+
+._1C6Zl {
+
+    border: none !important;
+    outline: none !important;
+}
+
+._7W_3c::after {
+
+    border: none !important;
+    outline: none !important;
+}
+
+
+._36Q2N {
+
+    min-width: 10px !important;
+}
+
+/* scrollbar */
+._3jNGW {
+
+
+}
+
+/* Background-tab*/
+._3Pwfx {
+
+    background: #343434 !important;
+}
+._3Pwfx._1GGbM {
+    /* selected */
+    /* background: #1e252b !important; */
+}
+/* selected */
+
+/* PIC outer Box */
+._22mTQ {
+
+    padding: 0px 8px 0px 8px !important;
+}
+
+/* fix the selected radius outline */
+._15OLJ {
+
+    /* display: none !important; */
+}
+
+._1l12d {
+
+    border-radius: 0;
+
+    background: transparent !important;
+
+    overflow: auto !important;
+
+    /* box-shadow: 0px 0px 10px rgb(5, 161, 176); */
+}
+
+/* SELECTED PIC */
+._1MZWu [aria-selected="true"] ._1l12d {
+    /* box-shadow: 0px 0px 1px 5px rgb(5, 161, 176); */
+    box-shadow: 0px 0px 1px 5px rgb(74 156 143);
+}
+
+._1MZWu [aria-selected="true"] {
+    /* background-color: rgb(5, 161, 176) !important; */
+}
+
+._1MZWu:hover {
+
+    border-color: yellow !important;
+
+
+
+}
+
+._3Pwfx._1GGbM:after,
+._3Pwfx:hover:after {
+
+    /* bottom:0px !important; */
+    display: none !important;
+
+}
+
+._1l12d img {
+
+    /* box-shadow: 0px 0px 4px green !important; */
+
+}
+
+[data-icon="default-user"] {
+
+    opacity: 0.2;
+
+    background-color: black;
+}
+
+/* #pane-side { */
+
+/* _3Xjbn _3jNGW { */
+
+._3jNGW {
+
+    width: 90px !important;
+
+
+}
+
+/*------------------------------
+ SEARCH | h3j80 _2G_sX
+ _22PcK
+ _1awRl copyable-text selectable-text
+------------------------------*/
+
+/* .i5ly3 _299go */
+._299go {
+
+    width: calc(100% - 65px) !important;
+}
+
+/*------------------------------
+ TOP-PANE
+------------------------------*/
+
+/* border-left */
+._1UuMR {
+
+    background: #343434 !important;
+    background: #2b2b2b !important;
+
+
+
+}
+._1UuMR * {
+    color:lightgray !important;
+
+}
+
+/*------------------------------
+ scrollbar
+------------------------------*/
+
+._3Xjbn {
+
+    /* background: #423c3c !important; */
+
+}
+
+._3jNGW {
+
+    background: #423c3c !important;
+
+
+}
+
+/*------------------------------
+ CHAT - WINDOW
+------------------------------*/
+
+/* chat-background | #0a2225 */
+
+._26MUt {
+
+    background: #2c3238 !important;
+    background: #444444 !important;
+    background: #2b2b2b !important;
+    /* background: antiquewhite !important; */
+
+}
+
+/* ._3N37N { */
+
+/* MESSAGE-IN ---------------------------- */
+.message-in ._3N37N {
+
+    color: #6f6f6f !important;
+    color: #7e8e7e !important;
+    color: #5c6567 !important;
+    color: #748386 !important;
+    color: rgb(74 156 143) !important;
+}
+.message-in ._2XJpe {
+
+    background-color: #6f6f6f !important;
+    background-color: #7e8e7e !important;
+    background-color: #748386 !important;
+    background-color: #7c9499 !important;
+    background-color: #7e8e7e !important;
+    background-color: rgb(74 156 143) !important;
+
+}
+
+/* .message-in ._2XJpe * { */
+.message-in ._1VzZY {
+
+    color:lightgray !important;
+    color:#EFEFEF !important;
+
+}
+
+/* time */
+.message-in ._2JNr-,
+.message-in ._2fsgs {
+
+    color:lightgray !important;
+
+}
+
+
+.message-in ._3k8SE {
+
+    background-color: #4f6367 !important;
+    background-color: rgb(67 106 109) !important;
+
+}
+
+.message-in .bg-color-1 {
+
+    background-color:  rgb(67 106 109) !important;
+
+}
+
+.message-in ._1wlJG {
+
+    background-color: transparent !important;
+
+}
+
+/* .message-in .kA6WR:hover {
+
+    background-color: red!important;
+
+} */
+
+.message-in ._1lcup {
+
+    background: transparent !important;
+
+    transform: translateY(-5px);
+
+}
+/* dropdown icon color*/
+.message-in ._1qGcR {
+
+    /* color: lime!important; */
+
+}
+
+/*------------------------------
+ _1lcup kA6WR _1qGcR
+------------------------------*/
+
+
+/* MESSAGE-OUT ---------------------------- */
+.message-out ._3N37N {
+
+    color: #323232 !important;
+    color: #5c6567 !important;
+    color: #566669 !important;
+    color: #7c9499 !important;
+    color: rgb(69 95 101) !important;
+
+}
+.message-out ._2XJpe {
+
+    background-color: #323232 !important;
+    background-color: #5c6567 !important;
+    background-color: #566669 !important;
+    background-color: #7c9499 !important;
+    background-color: rgb(69 95 101) !important;
+
+}
+
+/* .message-out ._2XJpe * { */
+.message-out ._1VzZY {
+
+    color:lightgray !important;
+    /* color:#EFEFEF !important; */
+
+}
+.message-out ._2JNr-,
+.message-out ._2fsgs {
+    color:lightgray !important;
+    /* color:#EFEFEF !important; */
+
+}
+
+
+/* reply bouble */
+.message-out ._3k8SE {
+
+    color: white;
+    background-color: #4f6367 !important;
+    background-color: rgb(46 134 120) !important;
+
+}
+
+.message-out .bg-color-2{
+
+    background-color: rgb(46 134 120) !important;
+
+}
+
+/* reply bouble text color */
+.message-out ._19038  {
+    color: white !important;
+}
+
+.message-out ._1VzZY {
+    color: white !important;
+}
+
+/* reply dropdown */
+/* .message-out ._1lcup { */
+/* .message-out .kA6WR.N7Dyd { */
+.message-out .kA6WR {
+
+    background: transparent !important;
+
+    transform: translateY(-5px);
+
+}
+
+.message-out ._1wlJG {
+
+    background-color: transparent !important;
+
+}
+/*  reply dropdown icon */
+.message-out ._1qGcR {
+
+    /* color: white !important; */
+
+}
+
+
+/* Play icon color  */
+._25ztn {
+
+    color: white !important;
+}
+
+/*------------------------------
+ TITLE
+------------------------------*/
+
+
+
+
+
+/* Message In Reply Background | #4f6367 */
+
+._3fs13 {
+
+    /* background-color: #4f6367 !important; */
+}
+
+.bODxg {
+
+    /* background-color: #4f6367 !important; */
+}
+
+.i8New {
+
+    /* background-color: #4f6367 !important; */
+
+}
+
+
+/* right bar on reply */
+
+.bg-color-1._1SmnQ{
+
+
+}
+
+
+._1SmnQ{
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------
+ TITLE
+------------------------------*/

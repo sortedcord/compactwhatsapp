@@ -1,0 +1,189 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+
+._2O84H, ._3Aa1y, ._22PcK {
+
+    display: none !important;
+}
+
+._2NwAr {
+
+    flex: none !important;
+}
+
+.i5ly3 {
+    /* THUMBS - LEFT SIDE */
+    width: 80px !important;
+
+}
+
+.VOr2j {
+    /* COUNT MESSAGE */
+    position: absolute;
+    right: 5px;
+    z-index: 1000;
+
+    bottom: 5px;
+
+}
+
+/* Inner content */
+
+._2AuNk {
+
+
+}
+
+
+._36Q2N {
+
+    min-width: 10px !important;
+}
+
+/* scrollbar */
+._3jNGW {}
+
+/* Background-tab*/
+._3Pwfx {
+
+    background: #343434 !important;
+}
+._3Pwfx._1GGbM {
+    /* selected */
+    /* background: #1e252b !important; */
+}
+/* selected */
+._22mTQ {
+
+}
+
+/* fix the selected radius outline */
+._15OLJ {
+
+    display: none !important;
+}
+
+._1l12d {
+
+    border-radius: 0;
+
+    background: transparent !important;
+
+    overflow: auto !important;
+
+    /* box-shadow: 0px 0px 10px rgb(5, 161, 176); */
+}
+
+._1MZWu [aria-selected="true"] ._1l12d {
+    box-shadow: 0px 0px 5px 2px rgb(5, 161, 176);
+}
+
+._1l12d img {
+
+    /* box-shadow: 0px 0px 4px green !important; */
+
+}
+
+/*------------------------------
+ TOP-PANE
+------------------------------*/
+._1UuMR {
+
+    background: #343434 !important;
+
+
+}
+._1UuMR * {
+    color:lightgray !important;
+
+}
+
+/*------------------------------
+ scrollbar
+------------------------------*/
+
+._3Xjbn {
+
+    /* background: #423c3c !important; */
+
+}
+
+._3jNGW {
+
+    background: #423c3c !important;
+
+
+}
+
+/*------------------------------
+ CHAT - WINDOW
+------------------------------*/
+
+/* chat-background */
+
+._26MUt {
+
+    background: #2c3238 !important;
+    background: #444444 !important;
+    antiquewhite !important;
+
+}
+
+/* ._3N37N { */
+
+/* MESSAGE-IN */
+.message-in ._3N37N {
+
+    color: #6f6f6f !important;
+    color: #7e8e7e !important;
+    color: #5c6567 !important;
+}
+.message-in ._2XJpe {
+
+    background-color: #6f6f6f !important;
+    background-color: #7e8e7e !important;
+}
+
+.message-in ._2XJpe * {
+
+    color:lightgray !important;
+    color:#EFEFEF !important;
+
+}
+/* MESSAGE-OUT */
+.message-out ._3N37N {
+
+    color: #323232 !important;
+    color: #5c6567 !important;
+}
+.message-out ._2XJpe {
+
+    background-color: #323232 !important;
+    background-color: #5c6567 !important;
+}
+
+.message-out ._2XJpe * {
+
+    color:lightgray !important;
+    /* color:#EFEFEF !important; */
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------
+ TITLE
+------------------------------*/

@@ -1,0 +1,165 @@
+/*  COMPLETE APP */
+#app {
+
+}
+
+@media screen and (min-width: 50px){
+.two ._191H_ {
+	max-width: 17% !important;
+	flex: none !important;
+	min-width: 0% !important;	
+}
+
+html[dir=ltr] ._22XJC {
+	display: none !important;
+}
+
+html[dir] .uwk68 {
+	display: none !important;
+}}
+
+@media screen and (max-width: 648px){
+	._1XkO3 {
+	    min-width: 10px !important;
+}
+}
+._1XkO3 {
+	    min-width: 10px !important;
+}
+
+@media only screen and (max-width: 650px) {
+
+
+/* SIDE */
+/* SIDE Parent */
+#app > div div:nth-child(3) {
+    flex: none !important;
+}
+
+#side {
+    width: 80px !important;
+}
+
+#side > header {
+    display: none;
+}
+
+/* NOTIFICATION */
+#side > header + span {
+    display: none;
+}
+/* SEARCH */
+#side > header + span + div {
+    display: none;
+}
+
+/* CHAT PANEL */
+
+.two[tabindex] {
+
+    min-width: 0px !important;
+}
+
+/* PANE SIE */
+
+#pane-side {
+
+}
+
+#pane-side > div > div > div > div {
+
+    /* background-color: red !important; */
+
+}
+/* COUNTING MSG */
+#pane-side
+> div > div > div > div
+> div > div > div:nth-child(2)
+> div:nth-child(1) {
+
+    display: none !important;
+}
+#pane-side
+> div > div > div > div
+> div > div > div:nth-child(2)
+> div > div:nth-child(2) {
+    position: absolute;
+    left: 0px !important;
+    bottom: 5px !important;
+    z-index: 10000 !important;
+}
+
+
+[aria-label="Muted chat"] {
+    display: none !important;
+}
+
+/* Profile dropdown */
+#pane-side
+> div > div > div > div
+> div > div > div:nth-child(2)
+> div > div:nth-child(2) > span:nth-child(3) {
+    opacity: 0 !important;
+    display: none !important;
+}
+
+/* #pane-side div.hover > div > div > div *
+ {
+    opacity: 0 !important;
+    display: none !important;
+} */
+
+}
+
+a[href="http://bit.do/WhatsApp-Mini"],
+a[href="http://bit.do/Sent-With-WhatsApp-Mini"] {
+    /* display: none; */
+}
+/* EDITABLE TEXT */
+
+[contenteditable="true"] {
+
+    /* color: blue !important; */
+}
+
+/* SEND BUTTON */
+
+[data-testid="send"] {
+
+}
+
+
+/* USER DISPLAY | TOP BAR ICON */
+[data-testid="default-user"] {
+}
+[data-icon="default-user"] {
+}
+
+[data-testid="status-v3-unread"] {
+}
+[data-icon="status-v3-unread"] {
+}
+
+[data-testid="chat"] {
+}
+[data-icon="chat"] {
+}
+
+[data-testid="menu"] {
+}
+[data-icon="menu"] {
+}
+
+
+
+
+
+
+
+
+
+
+
+/*------------------------------
+ TITLE
+------------------------------*/

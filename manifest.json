@@ -1,0 +1,40 @@
+{
+  "name": "Compact WhatsApp",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": " make whatsapp's dreaded web interface more compact and suitable for tiling",
+  "homepage_url": "https://github.com/sortedcord/compactwhatsapp",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "page": "src/bg/background.html",
+    "persistent": true
+
+},
+  "permissions": [
+    "https://web.whatsapp.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.whatsapp.com/*"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ]
+    },
+    {
+      "matches": [
+        "https://web.whatsapp.com/*"
+      ],
+      "js": [
+        "src/inject/inject.js",
+        "js/jquery.js"
+      ]
+    }
+  ]
+}
