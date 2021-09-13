@@ -30,7 +30,7 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
     <tr>
 </table>
 
-<div align="right" id="installation">
+<div id="installation">
   <h1> Installation </h1>
   <p>Currently this only works for chromium based browsers. In order to install it, you can check out the releases and then download the zip provided there.</p>
   <p>Next step would be to enable developer mode in your browser. You can do so by going to the extensions page (its something like chrome://extensions or brave://extensions depending on your browser) and then toggle the developer mode option.</p>
@@ -38,7 +38,7 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
 
 </div>
 
-# Usage
+<!-- # Usage
 You can read the [documentation](https://github.com/serumstudio/hype/) for more info and [examples](https://github.com/serumstudio/hype/) for more examples.
 Hyper CLI comes with a starter project template as well. After the installation, run 
 ```bash
@@ -88,4 +88,4 @@ Thanks to these contributors who made the project maintained!
 <div align="right" id="license">
   <h1> License </h1>
   <p> Hype is license under <a href="https://github.com/serumstudio/anglo/blob/main/LICENSE">MIT</a> </p>
-</div> -->
+</div> --> -->
