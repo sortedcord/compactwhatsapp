@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="#about">About</a> | 
-  <!-- <a href="#installation">Installation</a> | 
-  <a href="#usage">Usage</a> | 
+  <a href="#installation">Installation</a> | 
+  <!-- <a href="#usage">Usage</a> | 
   <a href="#features">Features</a> | 
   <a href="#contributors">Contributors</a> |
   <a href="#license">License</a> -->
@@ -15,7 +15,7 @@
 
 # About
 
-<!-- > **Next**: [Installation](#installation)  -->
+> **Next**: [Installation](#installation)
 
 Have you ever had trouble with whatsapp web in terms of multitasking? Well I did, and it was pretty annoying whenever I wanted to multitask and tile it to a smaller portion of the screen. It is not responsive at all which what compactwhatsapp tries to fix.
 
@@ -30,13 +30,12 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
     <tr>
 </table>
 
-<!-- <div align="right" id="installation">
+<div align="right" id="installation">
   <h1> Installation </h1>
-  <p>You can install the module @ <a href="https://pypi.org/project/hypecli/">PyPI</a> (recommended). or if you want you can install the module straight on the github repo (unrecommended)
-    Or, download it at <a href="https://github.com/serumstudio/hype/releases">release</a> page. (recommended)</p>
-  <pre><code>$ pip install hypecli</code></pre>
-  
-  <a href="https://hype.serum.studio/getting-started">Installation Guide</a> at the Documentation Site
+  <p>Currently this only works for chromium based browsers. In order to install it, you can check out the releases and then download the zip provided there.</p>
+  <p>Next step would be to enable developer mode in your browser. You can do so by going to the extensions page (its something like chrome://extensions or brave://extensions depending on your browser) and then toggle the developer mode option.</p>
+  <p>All that is required now is to unzip the downloaded file and drag the folder into your browser.</p>
+
 </div>
 
 # Usage
