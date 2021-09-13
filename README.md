@@ -36,8 +36,10 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
   <p>Next step would be to enable developer mode in your browser. You can do so by going to the extensions page (its something like chrome://extensions or brave://extensions depending on your browser) and then toggle the developer mode option.</p>
 
   ![devmode](screenshots/dev_mode.png)
-  
+
   <p>All that is required now is to unzip the downloaded file and drag the folder into your browser.</p>
+
+  ![drag](screenshots/drag.gif)
 
 
 
