@@ -34,7 +34,13 @@ Have you ever had trouble with whatsapp web in terms of multitasking? Well I did
   <h1> Installation </h1>
   <p>Currently this only works for chromium based browsers. In order to install it, you can check out the releases and then download the zip provided there.</p>
   <p>Next step would be to enable developer mode in your browser. You can do so by going to the extensions page (its something like chrome://extensions or brave://extensions depending on your browser) and then toggle the developer mode option.</p>
+
+  ![devmode](screenshots/dev_mode.png)
+  
   <p>All that is required now is to unzip the downloaded file and drag the folder into your browser.</p>
+
+
+
 
 </div>
 
@@ -88,4 +94,4 @@ Thanks to these contributors who made the project maintained!
 <div align="right" id="license">
   <h1> License </h1>
   <p> Hype is license under <a href="https://github.com/serumstudio/anglo/blob/main/LICENSE">MIT</a> </p>
-</div> --> -->
+</div> -->
